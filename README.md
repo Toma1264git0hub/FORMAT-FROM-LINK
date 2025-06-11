@@ -25,7 +25,7 @@ Download the tool
 ```bash
 git clone https://github.com/Toma1264git0hub/FORMAT-FROM-LINK.git
 ```
-'''bash 
+```bash
 cd FORMAT-FROM-LINK
 ```
 ```bash
