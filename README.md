@@ -29,7 +29,7 @@ git clone https://github.com/Toma1264git0hub/FORMAT-FROM-LINK.git
 cd FORMAT-FROM-LINK
 ```
 ```bash
-python HACK.py
+python 'HACK. py'
 ```
 
 THE PROGRAMER
